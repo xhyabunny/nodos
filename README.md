@@ -1,6 +1,5 @@
 # Operative System based on security, encryption & privacy. 🧪
 ![nod_os](https://user-images.githubusercontent.com/106491722/222940428-aa4c7478-fde0-49ed-977e-03ed85adc3b8.png)
-Nod OS by xhyabunny™ © 2023
 ### 👁‍🗨 What is nod OS?
 **Nod OS**, is a secure, fast and dynamic operative system that looks up for **user's security and privacy**. ✅
 
