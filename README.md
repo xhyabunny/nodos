@@ -1,14 +1,14 @@
 # nod OS: security, encryption & privacy. 🧪
 ![nod_os](https://user-images.githubusercontent.com/106491722/222940428-aa4c7478-fde0-49ed-977e-03ed85adc3b8.png)
 ### 👁‍🗨 What is nod OS?
-**Nod OS**, is a secure, fast and dynamic operative system that looks up for **user's security and privacy**. ✅
+**Nod OS**, is a secure, fast and dynamic operating system that looks up for **user's security and privacy**. ✅
 
 ### ❓ Reasons?
 We're pretty much tired of companies like Google and Microsoft who spend their time snitching on our personal info to spy, control and sell our data, so we decided to put an end (or at least to give you a way out from it) to this.
 Our company always had in count the privacy of our people and we're looking for more reliable ways to get our users to be fully protected.
 
 ### 🌐 About nod
-🔹 Our operative system is based on C# and C for most of the programming.
+🔹 Our operating system is based on C# and C for most of the programming.
 
 🔹 The name **nod os** comes up as a reference of the **File System** our **OS** uses.
 
