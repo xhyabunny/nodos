@@ -17,13 +17,7 @@ Our company always had in count the privacy of our people and we're looking for 
 
 🔹 The name **nodos** comes up as a reference for the **File System** structuring of this OS.
 
-🔹 We work with ***our own file system*** called ``➰bunnyEFS``, also known as ``bunny Encrypted FileSystem``, made by [@ChocoBonis](https://github.com/ChocoBonis).
-
- ▪▪▪ *Heres an example on how it works:*
-
-<div align="center">
-<img style="width:65%" src="https://user-images.githubusercontent.com/106491722/222941958-a71e3b5a-43f8-4b4d-8399-57d64af4db68.png" alt="file system map"/>
-</div>
+🔹 We work with ***our own file system*** called ``➰bEFS``, also known as ``bunny Encrypted FileSystem``, made by [@ChocoBonis](https://github.com/ChocoBonis).
 
 ### How to install
 🔹 Download the [ISO file]() on our release section to get it installed either on your USB with [Rufus 3.18](https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe), or in a *virtual machine*.
