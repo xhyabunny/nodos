@@ -1,8 +1,8 @@
 # nod OS: security, encryption & privacy. 🧪
 
 <div style="display:flex">
- <img src="https://user-images.githubusercontent.com/106491722/222940428-aa4c7478-fde0-49ed-977e-03ed85adc3b8.png" height="300px"/>
- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106491722/247286214-f99786c9-a70e-47ba-8557-d4577cee8260.png" height="300px"/>
+ <img src="https://user-images.githubusercontent.com/106491722/222940428-aa4c7478-fde0-49ed-977e-03ed85adc3b8.png" height="240px"/>
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106491722/247286214-f99786c9-a70e-47ba-8557-d4577cee8260.png" height="240px"/>
 </div>
 
 ### 👁‍🗨 What is nod OS?
