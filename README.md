@@ -22,7 +22,7 @@ Our company always had in count the privacy of our people and we're looking for 
 ### How to install
 🔹 Download the [ISO file]() on our release section to get it installed either on your USB with [Rufus 3.18](https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe), or in a *virtual machine*.
 
-🔹 Once those steps are done and you have set up your USB/Virtual Machine to run the OS, you're good to go and use it wherever and anywhere you want!
+🔹 Once those steps are done and you have set up your USB/Virtual Machine to run the OS, you're good to go and use it wherever and whenever you want!
 
 #
 ### We hope you enjoy using Nod OS. 💝
