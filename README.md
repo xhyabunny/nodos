@@ -1,4 +1,4 @@
-# nod OS: effectiveness, security & privacy. 🧪
+# [W.I.P.] nod OS: effectiveness, security & privacy. 🧪
 
 <div style="display:flex">
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106491722/247286214-f99786c9-a70e-47ba-8557-d4577cee8260.png" height="240px"/>
