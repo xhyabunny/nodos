@@ -25,6 +25,7 @@ Download the [ISO file](https://github.com/xhyabunny/nodOS/releases/download/lat
 
 ### Requirements
 🔘 x84 Bits / ARM Compatible processor
+
 🔘 5MB+ RAM
 #
 ### We hope you enjoy using Nod OS. 💝
