@@ -24,9 +24,9 @@ Download the [ISO file](https://github.com/xhyabunny/nodOS/releases/download/lat
 
 - 5MB+ RAM
 #
-### We hope you enjoy using Nod OS. 💝
+### We hope you enjoy using nodos. 💝
 - Programmed by [xhyabunny](https://github.com/xhyabunny)
 - Tested by [SanicBTW](https://github.com/SanicBTW)
 - File System by [Gabolate](https://github.com/Gabolate)
 
-Nod-OS by xhyabunny™ © 2023
+nodos by xhyabunny™ © 2023
