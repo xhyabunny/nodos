@@ -8,7 +8,7 @@
 **nodos**, is a secure & fast operating system that looks up for **user's security and privacy**. ✅
 
 ### 🌐 About
-- Our operating system is based on C# for most of it (Named Karrot).
+ - Our operating system is based on C# for most of it (Kernel name is Karrot).
 
 - The name **nodos** comes up as a reference of the structuring for this OS.
 
