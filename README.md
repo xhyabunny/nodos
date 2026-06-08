@@ -20,7 +20,7 @@ Download the latest [ISO file](https://github.com/xhyabunny/nodos/releases/tag/l
 ✅ Once those steps are done and you have set up your USB/Virtual Machine to run the OS, you're good to go and use it wherever and whenever you want!
 
 ### Requirements
-- x84 Bits / ARM Compatible processor
+- x86 Bits / ARM Compatible processor
 
 - 256MB+ RAM
 
